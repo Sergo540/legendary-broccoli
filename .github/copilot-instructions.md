@@ -1,7 +1,7 @@
 # GitHub Copilot Instructions
 
 ## Project Overview
-This is the legendary-broccoli repository. The repository contains project documentation and configuration files.
+This is the legendary-broccoli repository (🐲🐲☘️☘️). This repository serves as a general-purpose project that may be used for various development activities and experiments.
 
 ## Coding Standards
 - Follow standard coding conventions for the language being used
